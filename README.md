@@ -15,3 +15,7 @@ Building this portfolio allowed me to solidify my understanding of core web tech
 On the website, you'll find an "About Me" section that introduces my interests, a clear list of my current skills (including HTML, CSS, JavaScript basics, and Python basics), and my contact information. My goal for this project was to create a clean, responsive, and user-friendly experience.
 
 This portfolio represents my foundational abilities and my drive to continuously learn and improve. I'm excited about applying these skills to more complex projects and contributing to the tech community. Feel free to explore the code!
+
+#OUTPUT
+![Image](https://github.com/user-attachments/assets/37b16dcb-c850-4957-a580-913ef454c958)
+![Image](https://github.com/user-attachments/assets/4f44aef4-2b9d-4527-a6aa-039f74598527)
